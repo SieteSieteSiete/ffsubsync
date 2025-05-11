@@ -7,3 +7,7 @@ dist
 __version__
 .venv/
 .coverage
+venv/
+venv3.13.3/
+.DS_Store
+.python-version
